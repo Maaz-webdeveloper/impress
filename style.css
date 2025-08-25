@@ -1,9 +1,0 @@
-/* Style for audio at the bottom */
-.bottom-audio {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  background-color: #fff;
-  border-top: 1px solid #ff5c8d;
-}
